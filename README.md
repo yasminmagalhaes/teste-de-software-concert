@@ -6,7 +6,6 @@ Para conhecer o resultado do código, fiz um vídeo demonstrando sua utilizaçã
 https://user-images.githubusercontent.com/72515480/210497631-c454f22d-30c0-4701-ac10-6fd3c4a70617.mp4
 
 No vídeo, o tempo de pausa entre as ações foi prolongado apenas para melhor demonstração, os testes podem ser feitos sem a pausa. 
-Link do vídeo: https://www.loom.com/share/2720357bbef0448ab160834e232ae618
 
 <h2>Usabilidade Google:</h2>
 
